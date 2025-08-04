@@ -2,7 +2,7 @@
 
 A Google Apps Script library for interacting with the [OpenCage Geocoding API](https://opencagedata.com). This library makes it easy to forward and reverse geocode directly within your Google Sheets and other Google Workspace projects.
 
-[![Build Status](https://github.com/YOUR_USERNAME/google-apps-script-opencage/actions/workflows/main.yml/badge.svg)](https://github.com/YOUR_USERNAME/google-apps-script-opencage/actions)
+[![Build Status](https://github.com/geonot/opencage-gas/actions/workflows/main.yml/badge.svg)](https://github.com/geonot/opencage-gas/actions)
 
 ## Features
 
